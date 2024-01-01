@@ -1,6 +1,5 @@
 package com.vinayak.springsecurityjwtnew.entity;
 
-public enum Role {
-    USER,
-    ADMIN
+public enum TokenType {
+    BEARER
 }
